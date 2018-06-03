@@ -1,11 +1,11 @@
-# *Litesight*
+# *fantasygold-insight*
 
-*Litesight* is an open-source Litecoin blockchain explorer with complete REST and websocket APIs.
-Litesight runs in NodeJS, uses AngularJS for the front-end and LevelDB for storage.
+*insight* is an open-source Litecoin blockchain explorer with complete REST and websocket APIs.
+insight runs in NodeJS, uses AngularJS for the front-end and LevelDB for storage.
 
-Check some screenshots and more details at [litesight's project homepage](https://github.com/pembo210/Litesight).
+Check some screenshots and more details at [fantasygold-insight's project homepage](https://github.com/scottie/fantasygold-insight).
 
-*Litesight* project is now split in two repositories. One for the [API](https://github.com/pembo210/Litesight-api)
+*insight* project is now split in two repositories. One for the [API](https://github.com/pembo210/Litesight-api)
 and for the front-end. This repository is for the front-end, which will install the API as a NPM dependency.
 
 
