@@ -1,6 +1,6 @@
 # *fantasygold-insight*
 
-*insight* is an open-source Litecoin blockchain explorer with complete REST and websocket APIs.
+*insight* is an open-source FGC blockchain explorer with complete REST and websocket APIs.
 insight runs in NodeJS, uses AngularJS for the front-end and LevelDB for storage.
 
 Check some screenshots and more details at [fantasygold-insight's project homepage](https://github.com/scottie/fantasygold-insight).
